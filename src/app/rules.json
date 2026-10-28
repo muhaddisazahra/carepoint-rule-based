@@ -1,0 +1,63 @@
+
+[
+  {
+    "intent": "contact",
+    "question": "How can I contact DHQ Hospital Sargodha?",
+    "keywords": ["contact number", "phone number", "telephone", "call hospital", "hospital contact", "helpline"],
+    "reply": "The Punjab Government directory lists 048-9230829 for DHQ Hospital Sargodha, also known as Dr. Faisal Masood Teaching Hospital. Call to confirm the department you need and its current timings."
+  },
+  {
+    "intent": "location",
+    "question": "Where is DHQ Hospital Sargodha located?",
+    "keywords": ["address", "location", "where is hospital", "directions", "how to reach", "mianwali road"],
+    "reply": "DHQ Hospital Sargodha is listed in Sargodha City, Punjab. A hospital directory lists its location as DHQ Hospital, Mianwali Road, Sargodha. Confirm the best entrance or route locally before travelling."
+  },
+  {
+    "intent": "opd_timings",
+    "question": "What are the OPD timings?",
+    "keywords": ["opd timings", "outpatient timings", "clinic timings", "when does opd open", "opd hours"],
+    "reply": "I could not verify a current official OPD schedule for this hospital. OPD timings may differ by department and day. Please call 048-9230829 before travelling and ask for the relevant department's current schedule."
+  },
+  {
+    "intent": "doctor_schedule",
+    "question": "How can I check whether a doctor is available?",
+    "keywords": ["doctor availability", "doctor schedule", "doctor available", "specialist available", "which doctor", "consultant timing"],
+    "reply": "I do not have a verified live doctor roster. Call 048-9230829 and ask whether the doctor or specialty you need is available, along with the consultation hours and any registration requirements."
+  },
+  {
+    "intent": "appointment",
+    "question": "How do I make an appointment?",
+    "keywords": ["appointment", "book appointment", "booking", "register for opd", "registration process"],
+    "reply": "I cannot book appointments, and I could not verify a current official booking procedure. Contact the hospital at 048-9230829 to ask whether your department accepts appointments, walk-in patients, or requires registration at the hospital."
+  },
+  {
+    "intent": "emergency",
+    "question": "What should I do in a medical emergency?",
+    "keywords": ["emergency", "urgent medical help", "accident", "severe bleeding", "unconscious", "emergency ward"],
+    "reply": "For a potentially life-threatening emergency, do not wait for this chatbot or a routine appointment. Go to the nearest emergency department or contact local emergency services. Published reports mention emergency wards at DHQ Sargodha, but this chatbot cannot verify live capacity or current service availability."
+  },
+  {
+    "intent": "ct_ultrasound",
+    "question": "Are CT scans and ultrasound available at the hospital?",
+    "keywords": ["ct scan", "ct scanning", "ultrasound", "radiology", "imaging test", "scan available"],
+    "reply": "A local news report dated February 26, 2026, reported the inauguration of a CT scan and ultrasound section at Dr. Faisal Masood Teaching Hospital. I cannot confirm whether a particular test is currently operational, its charges, or appointment requirements. Call 048-9230829 before visiting."
+  },
+  {
+    "intent": "blood_unit",
+    "question": "Does DHQ Hospital have a blood unit?",
+    "keywords": ["blood bank", "blood unit", "blood donation", "blood availability", "need blood", "blood group"],
+    "reply": "The Punjab Blood Transfusion Authority's licensed blood-bank listing includes a District Blood Unit at DHQ Hospital Sargodha. This does not confirm that a particular blood group or blood component is available right now. Contact the hospital and ask about current availability and the required procedure."
+  },
+  {
+    "intent": "medicine_availability",
+    "question": "Can I get my prescribed medicines from the hospital?",
+    "keywords": ["medicine availability", "medicines available", "hospital pharmacy", "free medicines", "prescribed medicine", "drug availability"],
+    "reply": "This chatbot cannot check live pharmacy stock or determine whether a medicine will be provided free of charge. Availability and eligibility may vary by medicine and programme. Contact the hospital pharmacy or relevant department and confirm before relying on availability."
+  },
+  {
+    "intent": "documents",
+    "question": "What documents should I bring for a hospital visit?",
+    "keywords": ["documents required", "what to bring", "medical reports", "previous reports", "cnic", "patient documents"],
+    "reply": "As a general preparation, bring any previous medical reports, current prescriptions or a list of medicines, and identification if available. I could not verify a hospital-specific document checklist, so ask the relevant department whether any additional documents or registration papers are required."
+  }
+]
